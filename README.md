@@ -14,7 +14,7 @@ mnistNet.printParameters();
 ---
 
 # Results
-As an example, I tried to train a classifier model on MNIST dataset.
+As an example, I tried to train a classifier model on MNIST handwritten dataset.
 
 The model has 20 hidden layers.
 
