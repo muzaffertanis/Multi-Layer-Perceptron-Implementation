@@ -1,5 +1,5 @@
 # Multi-Layer-Perceptron-Implementation
-C++ Multi Layer Perceptron implementation. The implementation can be used as an header only library.
+C++ Multi Layer Perceptron implementation. The implementation can be used as a header only library.
 
 ## Basic usage
 ```c++
